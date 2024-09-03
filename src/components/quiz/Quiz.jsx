@@ -1,4 +1,3 @@
-// src/components/quiz/Quiz.js
 import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { selectCurrentQuestion, selectQuestions, answerQuestion, selectQuizStatus } from '../../features/quiz/quizSlice';

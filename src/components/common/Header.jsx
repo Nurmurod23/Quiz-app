@@ -1,4 +1,3 @@
-// src/components/common/Header.js
 import React from 'react';
 
 const Header = ({ title = 'Frontend Quiz App' }) => {

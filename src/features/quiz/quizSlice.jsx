@@ -1,4 +1,3 @@
-// src/features/quiz/quizSlice.js
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialQuestions = [
